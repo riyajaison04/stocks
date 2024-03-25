@@ -14,10 +14,7 @@ class About extends React.Component {
         return (
             <div className={`container ${styles.marginTop}`}>
                 <div className="m-1 m-lg-5 text-center">
-                    <h1 className="m-1 m-lg-5 h2">We pioneered the discount broking model in India.
-                  <br />
-                        Now, we are breaking ground with our technology.
-                </h1>
+                    <h1 className="m-1 m-lg-5 h2">Empowering Investors, Illuminating Portfolios – Your Beacon in the World of Stocks.</h1>
                 </div>
                 <hr />
                 <div className="row m-5">
